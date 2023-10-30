@@ -1,12 +1,12 @@
 {
-    "name": "XinFin Network",
-    "website": "https://xinfin.network",
-    "description": "XinFin Network is a Enterprise Ready Hybrid Blockchain For Global Trade and Finance,Combining the power of Public & Private blockchains with Interoperable Smart Contracts ",
-    "explorer": "https://explorer.xinfin.network/",
+    "name": "XDC Network",
+    "website": "https://xdc.org",
+    "description": "XDC Network is an enterprise-grade, open-source blockchain protocol. An EVM-compatible chain with enforceable smart contracts, it is uniquely suited to revolutionize, decentralize, and liquify the trade finance industry through the tokenization of real world assets and financial instruments.",
+    "Derivation Path":"m/44'/550'/0'/0/0"
     "symbol": "XDC",
     "type": "coin",
-    "decimals": 10,
-    "status": "abandoned",
+    "decimals": 18,
+    "status": "ACTIVE",
     "links": [
         {
             "name": "github",
